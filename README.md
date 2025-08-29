@@ -24,5 +24,3 @@ React
 Tailwind CSS
 
 Vercel (Deployment)
-
-🚀 Getting Started
